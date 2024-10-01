@@ -2,8 +2,8 @@
 
 Alright, so you've gotta add the .env.local for these, also consider putting stripe in there.
 
-PUBLIC_SUPABASE_URL=
-PUBLIC_SUPABASE_ANON_KEY=
+>PUBLIC_SUPABASE_URL=
+>PUBLIC_SUPABASE_ANON_KEY=
 
 Also find a way to verify stripe credentials on the client side, so probably
 
